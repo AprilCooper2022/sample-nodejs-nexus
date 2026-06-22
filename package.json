@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-cicd-demo",
+  "version": "1.0.0",
+  "description": "Express CI/CD Demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
